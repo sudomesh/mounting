@@ -65,9 +65,13 @@ the operator can take responsibility for that component.
 ## Prior to Mounting
 
 * Do you have all your tools?
-  * Cable testers
-  * A drill suitable for what you will be putting holes in
-  * Spare extender / home node
+  * Cat5 crimps and crimpers
+  * Cat5 cable (at least 100')
+  * Cable tester
+  * A drill with bits suitable for what you will be putting holes in
+  * Mounting hardware suitable for your surface. Mounting on wood or asbestos is different from mounting on concrete or stucco.
+  * Whatever you need (caulk, grommets, etc) to seal any penetrations involved in mounting the node and running cable
+  * Spare extender / home node with power supplies
 * Make sure you will have a contact on site.
 
 ## Actually On Site
