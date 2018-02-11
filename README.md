@@ -16,7 +16,7 @@ Related to all things mounting - equipment, prep, knowledge sharing.
 * Where do you want to mount your extender node? Do you know what you are aiming at?
 * Do you have a group of people to do the mount with? Ideally between two and four people, with at least one having done an install before.
 * Have you had any safety training? At the least, brush up on OSHA guidelines.
-* Do your research using publicly available GIS information (i.e. Google Earth)
+* Do your research using publicly available GIS information (i.e. Google Earth).
 
 ## Scouting the location
 
@@ -59,7 +59,7 @@ the operator can take responsibility for that component.
 
 * Always flash the routers prior to getting on site. If possible, run `makenode` prior to getting on site.
 * Make sure you have the right power adapter for what you are installing!
-* Follow the [walkthrough](https://peoplesopen.net/walkthrough)
+* Follow the [walkthrough](https://peoplesopen.net/walkthrough).
 * Flash backup equipment if possible. Always good to have a spare to save a potential second (Well, third if you count the scouting trip) visit.
 
 ## Prior to Mounting
