@@ -4,6 +4,13 @@ _work in progress_
 
 Related to all things mounting - equipment, prep, knowledge sharing.
 
+* [Questions to ask at the very beginning](#questions-to-ask-at-the-very-beginning)
+* [Scouting the location](#scouting-the-location)
+* [Planning the Mount and Establishing Consent](#planning-the-mount-and-establishing-consent)
+* [Flashing Routers](#flashing-routers)
+* [Prior to Mounting](#prior-to-mounting)
+* [Actually On Site](#actually-on-site)
+
 ## Questions to ask at the very beginning
 
 * Where do you want to mount your extender node? Do you know what you are aiming at?
