@@ -18,9 +18,35 @@ Related to all things mounting - equipment, prep, knowledge sharing.
 * Is there actually a good place to mount the antenna?
 * Can you actually see the node you are aiming for? Line of sight is key!
   * Easy check: can you see a `peoplesopen-node2node` ssid?
-* Explain the mounting process to the contact. Include things like where the equipment will get mounted and how cables will pass into the building.
+* Discuss the mounting process with the contact (see below.)
 * Make sure contact information is exchanged so you can coordinate the actual install at a future time.
 * Plot your anticipated cable run.
+
+## Planning the Mount and Establishing Consent
+
+It's important to establish consent for the various components of the installation with the node operator.
+
+Mounting options are primarily limited by *line of sight* and *building architecture*.
+
+* *Do not create a hole in the roof.*
+* Ideally, mount to a wall with a J-pole or strut and mast, or mount to a sturdy vent pipe with hose clamps.
+* The operator and neighbors might also be concerned with the visibility of the antenna - from the street, from neighboring homes, etc.
+* Don't just get line of sight to a node for an uplink; try to maximize the potential for future nodes to have line of sight to the one you're mounting.
+
+When determining the wire run, consider the following:
+
+* Minimizing the length of the run. Where is the extender node going, and where is the home node going?
+* Minimizing the probability of anyone tripping over the cable.
+* Securing the cable to prevent it from becoming a tripping hazard, dropping from the roof, etc.
+
+That said, be sure to discuss this with the node operator.
+If they don't want the cable to pass through a wall, consider their suggestions.
+If you don't feel comfortable proceeding with the run due to
+safety, time constraints, risk of damaging the building, or risk of damaging the equipment,
+the operator can take responsibility for that component.
+
+* *Again, do not create a hole in the roof.*
+* Be sure to properly seal any penetrations with liberal application of caulk. If the weather is wet, use a quick-setting caulk.
 
 ## Flashing Routers
 
@@ -42,7 +68,7 @@ Related to all things mounting - equipment, prep, knowledge sharing.
 * With four people you can have two doing the actual install, one person acting as a spotter for safety hazards, and a fourth interacting with the contact on site.
   * At least one person should have done this before.
   * At least one person should have been on the scouting trip.
-* Always explain to the contact on site what the plan will be. Even if you've done it before. Consent is important.
+* If a plan was previously established on a scouting trip, review it with the node operator and reestablish consent before proceeding.
 * Test equipment before mounting it. Battery powered PoE injectors can be helpful here.
   * This goes for both the extender and mesh nodes.
 * Confirm the actual cable run. Never put holes in a roof for cables always in a wall.
