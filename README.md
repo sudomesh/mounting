@@ -1,5 +1,3 @@
-Also, see https://sudoroom.org/wiki/Mesh/Mounting .
-
 # Mounting Extender Nodes
 
 _work in progress_
@@ -66,7 +64,7 @@ the operator can take responsibility for that component.
 
 ## Prior to Mounting
 
-* Do you have all your tools?
+* Do you have all your [tools](https://sudoroom.org/wiki/Mesh/Mounting#Tools)?
   * Cat5 crimps and crimpers
   * Cat5 cable (at least 100')
   * Cable tester
@@ -74,7 +72,9 @@ the operator can take responsibility for that component.
   * Mounting hardware suitable for your surface. Mounting on wood or asbestos is different from mounting on concrete or stucco.
   * Whatever you need (caulk, grommets, etc) to seal any penetrations involved in mounting the node and running cable
   * Spare extender / home node with power supplies
+* Do you have necessary safety [equipment](https://sudoroom.org/wiki/Mesh/Mounting#Safety_Equipment)?
 * Make sure you will have a contact on site.
+* Review relevant safety guides
 
 ## Actually On Site
 
