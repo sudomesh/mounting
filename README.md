@@ -1,3 +1,5 @@
+Also, see https://sudoroom.org/wiki/Mesh/Mounting .
+
 # Mounting Extender Nodes
 
 _work in progress_
