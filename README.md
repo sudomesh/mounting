@@ -2,6 +2,8 @@
 
 _work in progress_
 
+Also, see https://sudoroom.org/wiki/Mesh/Mounting .
+
 Related to all things mounting - equipment, prep, knowledge sharing.
 
 * [Questions to ask at the very beginning](#questions-to-ask-at-the-very-beginning)
