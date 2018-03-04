@@ -27,6 +27,7 @@ Related to all things mounting - equipment, prep, knowledge sharing.
 * Is there actually a good place to mount the antenna?
 * Can you actually see the node you are aiming for? Line of sight is key!
   * Easy check: can you see a `peoplesopen-node2node` ssid?
+  * Consider pointing to future node mount location using [azimuth calculator](https://www.fcc.gov/media/radio/distance-and-azimuths).
 * Discuss the mounting process with the contact (see below.)
 * Make sure contact information is exchanged so you can coordinate the actual install at a future time.
 * Plot your anticipated cable run.
