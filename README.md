@@ -15,10 +15,10 @@ Related to all things mounting - equipment, prep, knowledge sharing.
 
 ## Questions to ask at the very beginning
 
-* Where do you want to mount your extender node? Do you know what you are aiming at?
+* Where do you want to mount your extender node? Do you know what you are aiming at? Do you know of any nearby PON nodes?
 * Do you have a group of people to do the mount with? Ideally between two and four people, with at least one having done an install before.
-* Have you had any safety training? At the least, brush up on OSHA guidelines.
-* Do your research using publicly available GIS information (i.e. Google Earth).
+* Have you had any safety training? At the least, brush up on OSHA guidelines, especially [the ladder section](https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=STANDARDS&p_id=9715).
+* Did you look up the location in publicly available GIS and LIDAR data (i.e. Google Earth/Maps and https://link.ubnt.com/)?
 
 ## Scouting the location
 
