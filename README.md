@@ -58,6 +58,8 @@ the operator can take responsibility for that component.
 * *Again, do not create a hole in the roof.*
 * Be sure to properly seal any penetrations with liberal application of caulk. If the weather is wet, use a quick-setting caulk.
 
+* Do you need chimney mount? Here's instructions on how to install them, https://support.channelmaster.com/hc/en-us/articles/200383775-Installing-a-Chimney-Mount-CM3080-
+
 ## Flashing Routers
 
 * Always flash the routers prior to getting on site. If possible, run `makenode` prior to getting on site.
