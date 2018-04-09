@@ -96,4 +96,24 @@ the operator can take responsibility for that component.
   * If desired by site contact, you can use conduit or panduit for aesthetics.
 * If you will be crawling around in attics you may wish to have a respirator.
 * When mounting extender nodes, the POE sheath should be pointing down. This will ensure the LED's are not pointing up, as they apparently attract birds.
-* Exchange contact information with the site contact before leaving.
+* Exchange contact information with the site contact before leaving.'
+
+## Post-mount documentation
+After an install you should record a few things about the mount. Here's a list of suggested items to record:
+
+* Property Owner and their contact info
+* Point of Contact with PON
+* Node mount team, who went along, helped, and learned
+* Nature of roof mount (e.g. attached to vent pipe, chimney mount, weighted base, etc.)
+* Model of home node and antenna (also firmware verison? this is larger problem related to verison control and our release system)
+* General direction that the antenna was pointed and any connection made
+* Locationa and nature of cable run (e.g. zip tied to gutter, run under eave, etc.)
+* Location and nature of hole/entry point for cable run
+* Current IP address of home node (re-makenoding will change this, unless you manually reset the IP, this should be fixed in zeroconf development) 
+* Current IP address of roof node (this is always the home node IP +1 or +2)
+* Current bandwidth sharing limit, both up and down
+* Status of internet access at property
+* Any successful meshing, record the IPs of meshed nodes
+* Any bugs that were discovered
+* Any items we borrowed, equipment we broke, or parts we ran out of (so we can purchase replacements)
+
